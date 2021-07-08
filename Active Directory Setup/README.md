@@ -15,12 +15,12 @@ First, you'll need a virtualization program. In this example, we'll be using Vir
 
 ![](https://github.com/kmc9k1/Walkthroughs/blob/main/Active%20Directory%20Setup/pics/download_vbox.png)
 
-Next, you can download an image of Server 2019 directly from Microsoft. (https://www.microsoft.com/en-us/windows-server/trial)
+Next, you can download an image of Server 2019 directly from Microsoft. (https://www.microsoft.com/en-us/windows-server/trial)<br>
 You'll be able to install directly from this .iso file.
 
 ![](https://github.com/kmc9k1/Walkthroughs/blob/main/Active%20Directory%20Setup/pics/WINserv2019trial.png)
 
-Finally, you'll need to download the Windows Media Creation tool. (https://www.microsoft.com/en-us/software-download/windows10)
+Finally, you'll need to download the Windows Media Creation tool. (https://www.microsoft.com/en-us/software-download/windows10)<br>
 You will have to run this tool to create the boot media for your Windows 10 client.
 
 ![](https://github.com/kmc9k1/Walkthroughs/blob/main/Active%20Directory%20Setup/pics/windowsmediacreationtool.png)
@@ -64,7 +64,7 @@ Click the blue arrow next to **"Advanced"** and then under the **"Promiscuous Mo
 
 ![](https://github.com/kmc9k1/Walkthroughs/blob/main/Active%20Directory%20Setup/pics/advancedSETTINGS.png)
 
-Repeat the above process for your Windows 10 machine.
+Repeat the above process for your Windows 10 machine.<br>
 Start up your VMs as we'll need to manually assign some IP addresses.
 
 ---
